@@ -1,0 +1,1171 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"cl",
+				"clientId"
+			],
+			[
+				"cle",
+				"Cliente"
+			],
+			[
+				"em",
+				"empresa_id"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"s",
+				"stock"
+			],
+			[
+				"sho",
+				"showName"
+			],
+			[
+				"nam",
+				"nameProduct"
+			],
+			[
+				"shw",
+				"showName"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"da",
+				"data_test"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"o",
+				"online"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ge",
+				"getItem"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"off",
+				"offline"
+			],
+			[
+				"on",
+				"onLine"
+			],
+			[
+				"url",
+				"url_finally"
+			],
+			[
+				"J",
+				"jQuery"
+			],
+			[
+				"op",
+				"option_area"
+			],
+			[
+				"ca",
+				"captive_portal"
+			],
+			[
+				"cach",
+				"cacheName"
+			],
+			[
+				"temp",
+				"templates"
+			],
+			[
+				"m",
+				"modules"
+			],
+			[
+				"us",
+				"usuario"
+			],
+			[
+				"all",
+				"all_get"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"cur",
+				"current_path"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"con",
+				"confirm_page"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"fon",
+				"font-style\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"Capt",
+				"captivePortal"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"ord",
+				"orderModel"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"aux_c",
+				"aux_num_contract"
+			],
+			[
+				"un",
+				"undefined"
+			],
+			[
+				"or",
+				"orderModel"
+			],
+			[
+				"aux",
+				"aux_invoices_mc"
+			],
+			[
+				"au",
+				"aux_invoices"
+			],
+			[
+				"f",
+				"flag"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"end",
+				"end_range"
+			],
+			[
+				"sta",
+				"start_range"
+			],
+			[
+				"get",
+				"getMonth"
+			],
+			[
+				"mo",
+				"getMonth"
+			],
+			[
+				"per",
+				"periodpickerend"
+			],
+			[
+				"fech",
+				"fecha_array"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tbo",
+				"tboMailSettingsForm"
+			],
+			[
+				"Sen",
+				"SendMessage"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"am",
+				"amounts_g"
+			],
+			[
+				"amo",
+				"amounts"
+			],
+			[
+				"use",
+				"user_name_from"
+			],
+			[
+				"mail",
+				"mail_to_send"
+			],
+			[
+				"p",
+				"params"
+			],
+			[
+				"fi",
+				"firstLastName"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"ci",
+				"ci"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"ms",
+				"msisdn"
+			],
+			[
+				"pla",
+				"plan_2"
+			],
+			[
+				"te",
+				"telegroup_show"
+			],
+			[
+				"plan_2",
+				"plan_2_show"
+			],
+			[
+				"Te",
+				"telegroup"
+			],
+			[
+				"li",
+				"lineasAr"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"plan",
+				"plan_datos"
+			],
+			[
+				"dat",
+				"datos"
+			],
+			[
+				"rs",
+				"resp"
+			],
+			[
+				"pl",
+				"plan_datos"
+			],
+			[
+				"lineas",
+				"lineasResul"
+			],
+			[
+				"my",
+				"myConfigs1"
+			],
+			[
+				"add",
+				"addons"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"ar",
+				"arr"
+			],
+			[
+				"amoun",
+				"amount"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"phon",
+				"phone_call_number_arr"
+			],
+			[
+				"PHO",
+				"phone_call_number"
+			],
+			[
+				"name",
+				"name_show"
+			],
+			[
+				"sch",
+				"schedule_call_show"
+			],
+			[
+				"phone_call",
+				"phone_call_show"
+			],
+			[
+				"phone",
+				"phone_call_number"
+			],
+			[
+				"configu",
+				"configuration"
+			],
+			[
+				"call",
+				"call_title"
+			],
+			[
+				"AGE",
+				"agent"
+			],
+			[
+				"cal",
+				"call"
+			],
+			[
+				"conf",
+				"Config"
+			],
+			[
+				"form",
+				"form"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"email",
+				"email_show"
+			],
+			[
+				"sc",
+				"schedule_agent_show"
+			],
+			[
+				"pd",
+				"pd-top-mail"
+			],
+			[
+				"bi",
+				"body_mail"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"to",
+				"tokens"
+			],
+			[
+				"body",
+				"body_mail"
+			],
+			[
+				"bod",
+				"body_mail"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"se",
+				"send_mail"
+			],
+			[
+				"ph",
+				"phone_call_show"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"lin",
+				"line_number"
+			],
+			[
+				"FALSE",
+				"FALSE"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"inv",
+				"invoices"
+			],
+			[
+				"de",
+				"delete_temp"
+			],
+			[
+				"tem",
+				"temp1"
+			],
+			[
+				"invoice_o",
+				"invoice_order"
+			],
+			[
+				"date",
+				"date_status"
+			],
+			[
+				"date_",
+				"date_payment_format"
+			],
+			[
+				"bill",
+				"bills_arrr"
+			],
+			[
+				"bil",
+				"bills_arrr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Symfony/composer.json",
+			"settings":
+			{
+				"buffer_size": 2348,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Tarjxvf15",
+			"settings":
+			{
+				"buffer_size": 9,
+				"line_ending": "Unix",
+				"name": "Tarjxvf15"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 123.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 460.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/Curso",
+		"/var/www/html/Curso/Symfony",
+		"/var/www/html/Curso/Symfony/vendor"
+	],
+	"file_history":
+	[
+		"/var/www/html/Curso/bbdd/base_de_datos.sql",
+		"/var/www/html/Curso/untitled.sublime-project",
+		"/home/lyz/Documents/Datos y registros webs/bancoEstado",
+		"/home/lyz/Desktop/Facebank",
+		"/var/www/html/pruebas/test/ejercicio_4/symfony.json",
+		"/home/lyz/Downloads/xdebug/README.rst",
+		"/etc/apache2/apache2.conf",
+		"/etc/php/7.2/apache2/php.ini",
+		"/var/www/html/pruebas/test/README.md",
+		"/var/www/html/cursoSymfony/app/config/parameters.yml",
+		"/var/www/html/pruebas/aaaaa/Prueba.txt",
+		"/etc/apache2/sites-available/lyzlocal.conf",
+		"/var/www/html/git.txt",
+		"/home/lyz/Documents/Datos y registros webs/claves vzla Lyzmar",
+		"/home/lyz/Documents/Datos y registros webs/TDC/TDC banesco Jeff",
+		"/home/lyz/Documents/Datos y registros webs/mercantil Jeffrey",
+		"/home/lyz/Documents/Datos y registros webs/TDC/TDC Vzla",
+		"/var/www/html/pruebas/test/ejercicio_1/src/AppBundle/Entity/Venta.php",
+		"/home/lyz/Documents/Datos y registros webs/Marvel Api",
+		"/home/lyz/Documents/PruebaJeffrey/test.html",
+		"/home/lyz/Documents/PruebaJeffrey/marvel.html",
+		"/home/lyz/Documents/PruebaJeffrey/marvelApi.js",
+		"/home/lyz/Documents/PruebaJeffrey/test.js",
+		"/var/www/html/pruebas/aaaaa/Prueba.js",
+		"/var/www/html/pruebas/test/ejercicio_1/src/AppBundle/Form/VentaType.php",
+		"/var/www/html/pruebas/test/.git/config",
+		"/var/www/html/pruebas/test/ejercicio_1/src/AppBundle/Entity/Detalle.php",
+		"/var/www/html/pruebas/test/ejercicio_1/src/AppBundle/Controller/VentaController.php",
+		"/var/www/html/pruebas/test/ejercicio_1/src/AppBundle/Controller/DetalleController.php",
+		"/home/lyz/Downloads/Administracion/UsuarioBundle/Controller/UserController.php",
+		"/home/lyz/Downloads/ContratosBundle/Controller/ContratosController.php",
+		"/var/www/html/pruebas/test/ejercicio_1/src/AppBundle/Entity/Cliente.php",
+		"/home/lyz/Downloads/ContratosBundle/Form/ContratosType.php",
+		"/home/lyz/Downloads/Administracion/UsuarioBundle/Form/UserType.php",
+		"/home/lyz/Downloads/Administracion/UsuarioBundle/Entity/Rol.php",
+		"/home/lyz/Downloads/Administracion/UsuarioBundle/Entity/User.php",
+		"/home/lyz/Downloads/Administracion/UsuarioBundle/Entity/Perfil.php",
+		"/home/lyz/Downloads/Progis/ProyectoBundle/Entity/Proyecto.php~",
+		"/home/lyz/Downloads/Progis/ProyectoBundle/Entity/Proyecto.php",
+		"/home/lyz/Downloads/Progis/PrincipalBundle/Entity/Miembroespacio.php",
+		"/home/lyz/Downloads/Progis/PrincipalBundle/Entity/Rolgeneral.php",
+		"/var/www/html/pruebas/test/ejercicio_1/app/Resources/views/cliente/index.html.twig",
+		"/var/www/html/pruebas/test/ejercicio_1/src/AppBundle/Controller/ClienteController.php",
+		"/home/lyz/Downloads/ContratosBundle/Form/DireccionsolicitanteType.php",
+		"/home/lyz/Downloads/ControlEquipoBundle/Entity/EquiposPautas.php",
+		"/home/lyz/Downloads/ControlEquipoBundle/Entity/Pautas.php",
+		"/home/lyz/Downloads/ContratosBundle/Entity/Abogados.php",
+		"/var/www/html/pruebas/test/ejercicio_1/src/AppBundle/Form/ProductoType.php",
+		"/var/www/html/pruebas/test/ejercicio_1/app/Resources/views/venta/new.html.twig",
+		"/var/www/html/pruebas/test/ejercicio_1/app/Resources/views/venta/edit.html.twig",
+		"/home/lyz/Downloads/LicenciasBundle/Form/LicenciasType.php",
+		"/home/lyz/Downloads/ContratosBundle/Entity/Contratos.php",
+		"/var/www/html/pruebas/test/ejercicio_1/src/AppBundle/Entity/Producto.php",
+		"/var/www/html/pruebas/test/ejercicio_1/src/AppBundle/Resources/config/routing/producto.yml",
+		"/var/www/html/pruebas/test/ejercicio_1/src/AppBundle/Resources/config/routing/cliente.yml",
+		"/var/www/html/pruebas/test/ejercicio_1/src/AppBundle/Resources/config/routing/venta.yml",
+		"/var/www/html/pruebas/test/ejercicio_1/src/AppBundle/Resources/config/routing.yml",
+		"/var/www/html/pruebas/test/ejercicio_1/app/config/parameters.yml",
+		"/var/www/html/tbohn/sites/tigob2bselfcare.bo/settings.php",
+		"/var/www/html/pruebas/test/ejercicio_3/query.sql",
+		"/home/lyz/Documents/PruebaJeffrey/test1.html",
+		"/home/lyz/Documents/PruebaJeffrey/test.txt",
+		"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo/js/directive/current_invoice_bo.js",
+		"/home/lyz/Documents/LYZMAR/personal/RUN_chile",
+		"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_support_bo/js/directive/support.js",
+		"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo/js/directive/lineas-bo.js",
+		"/home/lyz/Documents/PruebaJeffrey/text.js",
+		"/home/lyz/Documents/Datos y registros webs/saime Jeff",
+		"/home/lyz/Documents/JEFFREY/trabajo/paginas_realizadas",
+		"/home/lyz/Documents/respuesta.txt",
+		"/home/lyz/Documents/BLVE/ayuda_DRUSH.txt",
+		"/home/lyz/Documents/BLVE/conexion server dev",
+		"/home/lyz/Desktop/numeros_lyzmar",
+		"/home/lyz/Desktop/Pendientes de pago",
+		"/var/www/html/captiveportal/modules/custom/browser_push_notification/src/Controller/BrowserPushNotificationController.php",
+		"/var/www/html/captiveportal/modules/custom/browser_push_notification/browser_push_notification.libraries.yml",
+		"/var/www/html/captiveportal/modules/custom/browser_push_notification/browser_push_notification.routing.yml",
+		"/var/www/html/captiveportal/modules/custom/browser_push_notification/src/Form/PushNotificationForm.php",
+		"/var/www/html/captiveportal/modules/custom/social_pwa/social_pwa.module",
+		"/var/www/html/captiveportal/modules/custom/social_pwa/social_pwa.routing.yml",
+		"/var/www/html/captiveportal/vendor/minishlink/web-push/src/VAPID.php",
+		"/var/www/html/captiveportal/modules/custom/social_pwa/social_pwa.install",
+		"/var/www/html/captiveportal/modules/custom/captive_portal/templates/confirmation-page.html.twig",
+		"/var/www/html/captiveportal/modules/custom/captive_portal/src/Controller/page_options.php",
+		"/var/www/html/captiveportal/composer.json",
+		"/var/www/html/captiveportal/modules/custom/social_pwa/social_pwa.permissions.yml",
+		"/var/www/html/captiveportal/modules/custom/captive_portal/captive_portal.routing.yml",
+		"/var/www/html/captiveportal/modules/custom/captive_portal/templates/captive-portal.html.twig",
+		"/var/www/html/views.view.plans.yml",
+		"/home/lyz/Documents/Datos y registros webs/bicentenario Mama",
+		"/home/lyz/Documents/Datos y registros webs/TDC/aaa.txt",
+		"/home/lyz/Documents/Datos y registros webs/datos vzla Sabina",
+		"/home/lyz/.cache/.fr-UYApDW/Chat de WhatsApp con Angélica.txt",
+		"/home/lyz/.cache/.fr-QsCPp5/Fran Lopez España.vcf",
+		"/home/lyz/.cache/.fr-ltrFkM/Francisco Lopez Frank.vcf",
+		"/home/lyz/.cache/.fr-vCGyBH/Eglys Chile.vcf",
+		"/home/lyz/.cache/.fr-9ApHyz/Carola Ws.vcf",
+		"/home/lyz/Documents/LYZMAR/personal/RUN",
+		"/var/www/html/captiveportal/modules/custom/browser_push_notification/css/main.css",
+		"/var/www/html/captiveportal/serviceWorker.js",
+		"/var/www/html/captiveportal/modules/custom/captive_portal/templates/success-page.html.twig",
+		"/var/www/html/captiveportal/modules/custom/browser_push_notification/js/app.js",
+		"/home/lyz/Downloads/views.view.plans.yml",
+		"/var/log/apache2/error.log",
+		"/home/lyz/Downloads/entity.txt",
+		"/var/www/html/captiveportal/modules/contrib/csv_serialization/csv_serialization.info.yml",
+		"/var/www/html/captiveportal/profiles/varbase/modules/contrib/ds/src/Plugin/views/Entity/Render/TranslationLanguageRenderer.php",
+		"/home/lyz/Documents/BLVE/Backup codigo/captive_portal/ruta de archivo translationLanguageRenderer",
+		"/var/www/html/captiveportal/modules/custom/captive_portal/captive_portal.info.yml",
+		"/var/www/html/captiveportal/modules/custom/captive_portal/captive_portal.module",
+		"/var/www/html/captiveportal/profiles/varbase/themes/contrib/vartheme/bootstrap/js/alert.js",
+		"/var/www/html/captiveportal/modules/custom/captive_portal/captive_portal.libraries.yml",
+		"/var/www/html/captiveportal/modules/custom/captive_portal/js/captive_app.js",
+		"/var/www/html/captiveportal/modules/custom/captive_portal/captive_portal.libraries.yml ",
+		"/var/www/html/captiveportal/modules/custom/captive_portal/js/app.js",
+		"/var/www/html/captiveportal/modules/custom/sw_register/sw_register.module",
+		"/var/www/html/captiveportal/modules/custom/sw_register/sw_register.libraries.yml",
+		"/var/www/html/captiveportal/modules/custom/sw_register/src/Form/SettingsForm.php",
+		"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_balance_bo/tbo_balance_bo.module",
+		"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_balance_bo/tbo_balance_bo.libraries.yml",
+		"/var/www/html/captiveportal/modules/custom/browser_push_notification/browser_push_notification.module",
+		"/home/lyz/Documents/Datos y registros webs/TDC/TDC exterior",
+		"/var/www/html/captiveportal/modules/custom/captive_portal/templates/offline.html.twig",
+		"/var/www/html/captiveportal/modules/custom/sw_register/sw_register.routing.yml",
+		"/var/www/html/captiveportal/.htaccess",
+		"/var/www/html/captiveportal/sites/default/settings.php",
+		"/etc/apache2/sites-available/default-ssl.conf",
+		"/etc/apache2/sites-available/captiveportal.conf"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+			"/home/lyz/Downloads/Administracion",
+			"/home/lyz/Downloads/Progis",
+			"/home/lyz/Downloads/ControlEquipoBundle/Entity",
+			"/var/www/html/captiveportal",
+			"/var/www/html/captiveportal/modules/custom/browser_push_notification",
+			"/var/www/html/captiveportal/modules/custom",
+			"/var/www/html/captiveportal/modules/custom/social_pwa",
+			"/var/www/html/captiveportal/modules/custom/browser_push_notification",
+			"/var/www/html/captiveportal",
+			"/var/www/html/captiveportal/modules",
+			"/var/www/html/captiveportal",
+			"/var/www/html/pruebas/wpapp",
+			"/var/www/html/captiveportal/modules/custom/browser_push_notification",
+			"/var/www/html/captiveportal/modules/custom/social_pwa",
+			"/var/www/html/captiveportal/modules/custom/captive_portal",
+			"/var/www/html/tbohn",
+			"/var/www/html/captiveportal",
+			"/var/www/html/captiveportal/modules/custom/social_pwa",
+			"/var/www/html/varbase",
+			"/var/www/html/opensocial/html",
+			"/var/www/html/opensocial/html/modules/custom/social_pwa",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbohn",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_balance_bo",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_api_bo",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_account_bo",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo/templates",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo",
+			"/var/www/html/tbohn",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo/modules/custom/tbo_balance_bo",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_balance_bo",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo/templates",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo",
+			"/var/www/html/tigoselfcareregional",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo",
+			"/var/www/html/tbohn/modules/custom/tbo_mail",
+			"/var/www/html/tbohn",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_support_bo",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_account_bo",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_support_bo",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo",
+			"/home/lyz/Downloads/TR10-TOOL-master",
+			"/var/www/html/tbohn",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_account_bo",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_account_bo",
+			"/var/www/html/tbohn",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbohn",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.hn",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.hn",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo",
+			"/var/www/html/tbohn/sites/tigob2bselfcare.hn",
+			"/var/www/html/trulytwins/wp-content/themes/trulyTwins/js",
+			"/var/www/html/trulytwins/wp-content",
+			"/var/www/html/trulytwins",
+			"/var/www/html/trulytwins/wp-content/themes/trulyTwins",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo/modules/custom/tbo_emulate_bo",
+			"/var/www/html/trulytwins/wp-content/themes",
+			"/var/www/html/trulytwins/wp-content/themes/trulyTwins",
+			"/var/www/html/trulytwins/wp-content/themes/trulyTwins/sass",
+			"/var/www/html/trulytwins/wp-content/themes/trulyTwins",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo",
+			"/var/www/html/tbopaises",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbopaises",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo",
+			"/var/www/html/trulytwins/wp-content",
+			"/var/www/html/trulytwins/wp-content/plugins/wish-list-for-woocommerce",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbopaises",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo/templates",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbopaises",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo/modules/custom/tbo_billing_bo",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo/modules/custom/tbo_account_bo",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbopaises",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo/modules/custom/tbo_emulate_bo",
+			"/var/www/html/trulytwins/wp-content/themes/trulyTwins",
+			"/var/www/html/tbopaises",
+			"/var/www/html/tbopaises/sites/tigob2bselfcare.bo",
+			"/var/www/html/trulytwins/wp-content/themes/trulyTwins/woocommerce",
+			"/var/www/html/trulytwins/wp-content/plugins/woocommerce",
+			"/var/www/html/trulytwins/wp-content/plugins/woocommerce/templates",
+			"/var/www/html/trulytwins/wp-content/plugins/woocommerce",
+			"/var/www/html/trulytwins/wp-content/plugins/woocommerce/templates",
+			"/var/www/html/trulytwins/wp-content/themes/trulyTwins",
+			"/var/www/html/trulytwins/wp-content/themes/trulyTwins/woocommerce",
+			"/var/www/html/trulytwins/wp-content/themes/trulyTwins/woocommerce/checkout",
+			"/var/www/html/trulytwins/wp-content/themes/trulyTwins/woocommerce",
+			"/var/www/html/trulytwins",
+			"/var/www/html/trulytwins/wp-content/plugins/woocommerce",
+			"/var/www/html/trulytwins/wp-content/themes/trulyTwins/sass",
+			"/var/www/html/trulytwins/wp-content/themes/trulyTwins/woocommerce/checkout"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mod_header",
+			"intl.error_level",
+			"intl.error:level",
+			"xdebug",
+			"fc0e2b2bcfc273962ce941db43aa2039",
+			"user",
+			"\\Administracion\\UsuarioBundle\\Entity\\User $user",
+			"user",
+			"rol",
+			"getRol",
+			"Rol",
+			"roles",
+			"rol",
+			"Administracion\\UsuarioBundle\\Entity\\Rol",
+			"rol",
+			"manytomany",
+			"res",
+			"proye",
+			"ManytoMany",
+			"nivelproyecto.php",
+			"Manytomany",
+			"clientId",
+			"Personal",
+			"setP",
+			"ventaId",
+			"VentaId",
+			"ventaId",
+			"localhost",
+			"root",
+			"localhost",
+			"test",
+			"div",
+			"aaaa",
+			"span",
+			"description",
+			"password",
+			"text",
+			"val",
+			"name",
+			"send_notification",
+			"worker",
+			"services",
+			"captiveportal",
+			"lyzmar",
+			"button",
+			"/button>",
+			"ui-dialog-titlebar-close",
+			"button",
+			"varbase",
+			"pwa",
+			"$(\"#msisdn\").text(localStorage.getItem(\"msisdn\"));",
+			"fetching the script.",
+			"estatus",
+			"OFFLINE_URL",
+			"online",
+			"url_finally",
+			"msisdn",
+			"service-worker",
+			"trusted_host_patterns",
+			"Opciones + FollowSymLinks",
+			"OFFLINE_URL",
+			"service-worker.js",
+			"OFFLINE_URL",
+			"$loader",
+			"Twig_Environment($loader)",
+			"Twig_Environment($loader);",
+			"auto_reload",
+			"Twig_Environment",
+			"Twig_Extension_GlobalsInterface",
+			"getGlobals",
+			"global(",
+			"Project_Twig_Extension",
+			"getGlobals()",
+			"$twig = new Twig_Environment($loader);",
+			"new Twig_Environment(",
+			"return $twig->render($template, $this->data)",
+			"new Twig_Environment($loader);",
+			"->addGlobal",
+			"->addGlobar",
+			"->add",
+			"auto",
+			"$twig",
+			"response",
+			"key",
+			"event",
+			"console.log(\"bbbb\")",
+			"window",
+			"head",
+			"dataCacheName",
+			"data-v1",
+			"updateForecastCard",
+			"');\n",
+			"manifest",
+			"manifest.json",
+			"/captiveportal",
+			"Confirm",
+			"confirm_page",
+			"success_page",
+			"confirm_page",
+			"kint_r",
+			"kint_",
+			"kint",
+			"current_path",
+			"array(",
+			"[field_name_plan]",
+			"[field_name_plan] => Array\n                                        (",
+			"text/html",
+			"sw.js",
+			"minishlink",
+			"web",
+			"SSLCertificateFile /etc/ssl/certs/ssl-cert-snakeoil.pem",
+			"DNS",
+			"activity_send",
+			"social_pwa.manifest",
+			"generateManifest",
+			"varbase",
+			"bootstrap-styles",
+			"varbase",
+			"app.updateForecastCard",
+			"tbopaises",
+			"Nombre",
+			"console",
+			"aux_num_con",
+			"aux_num",
+			"cont_general",
+			"aux_num_contract",
+			"aux_invoices_mc",
+			"closeSuggestions"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Symfony/composer.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1056,
+								1056
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Tarjxvf15",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "curso.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 799.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
